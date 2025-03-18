@@ -1,7 +1,7 @@
 # Breadboard Power Jumper
 ![Breadboard Power Jumper](pcb/pcb_render/breadboard_pwr_jumper.png)
 
-The *Breadboard Power Jumper* connects the edge rails (bus strips) of a standard solderless breadboard together while also providing clip points for power leads. This design was heavily influenced by a design from [IMSAI Guy](https://www.youtube.com/watch?v=gdtfjXa2s7k&t) with with slight modifications to the pcb shape and with the addition of manufactured test points.
+The *Breadboard Power Jumper* connects the edge rails (bus strips) of a standard solderless breadboard together while also providing clip points for power leads. This design was heavily influenced by a design from [IMSAI Guy](https://www.youtube.com/watch?v=gdtfjXa2s7k&t) with slight modifications to the pcb shape and the addition of manufactured test points.
 
 ![PCB Layout](docs/breadboard_power_jumper_pcb_layout.png)
 
@@ -22,3 +22,5 @@ The *Breadboard Power Jumper* connects the edge rails (bus strips) of a standard
     - [`/pcb/gerber`](pcb/gerber/): files for upload to PCB manufacturing service
     - [`/pcb/pcb_render`](pcb/pcb_render/): PNG image of PCB exported from KiCAD 3D viewer
     - [`/pcb/schematic_pdf`](pcb/schematic_pdf/): schematic exported from KiCAD as a PDF
+
+![Breadboard Power Jumper in Use](docs/breadboard_power_jumper_in_use.jpg)
